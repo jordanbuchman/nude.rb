@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-require 'RMagick'
+require 'RMagick4J'
 
 class Nude
   # Custom error class for rescuing from all Nude errors
